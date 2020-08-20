@@ -5,20 +5,11 @@
 
 ### Technologies
 
-<ul>
-	<li src="https://br.vuejs.org/v2/guide/index.html">
-		<a>Vuejs</a>
-	</li>
-	<li src="https://nuxtjs.org/">
-		<a>Nuxt</a>
-	</li>
-	<li src="https://github.com/axios/axios">
-		<a>Axios</a>
-	</li>
-	<li src="https://sass-lang.com/">
-		<a>Sass</a>
-	</li>
-</ul>
+
+* [Vuejs](https://br.vuejs.org/v2/guide/index.html)
+* [Nuxt](https://nuxtjs.org/)
+* [Axios](https://github.com/axios/axios)
+* [Sass](https://sass-lang.com/)
 
 ### How To Use
 To clone and run this application, you'll need  [Git](https://git-scm.com/),  [Node.js v10.16](https://nodejs.org/)  or higher +  [Yarn v1.13](https://yarnpkg.com/)  or higher installed on your computer. From your command line:
