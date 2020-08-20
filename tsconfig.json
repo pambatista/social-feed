@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2018",
+    "moduleResolution": "Node",
+    "lib": [
+      "ESNext",
+      "ESNext.AsyncIterable",
+      "DOM"
+    ],
+    "esModuleInterop": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "noEmit": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": [
+        "./*"
+      ],
+      "@/*": [
+        "./*"
+      ]
+    },
+    "types": [
+      "@types/node",
+      "@nuxt/types"
+    ]
+  },
+  "files": ["custom.d.ts"],
+  "exclude": [
+    "node_modules",
+    ".nuxt",
+    "dist"
+  ]
+}
